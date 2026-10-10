@@ -23,7 +23,7 @@ cost-benefit analysis and ROI projections.
 ## Preview
 
 ### Entity Relationship Diagram
-![ERD for the TopBike system](screenshots/erd.png)
+![ERD for the TopBike system](screenshots/ERD.png)
 
 ### UI Prototype
-![UI prototype of the TopBike system](screenshots/ui-prototype-home.png)
+![UI prototype of the TopBike system](screenshots/UI Prototype.png)
