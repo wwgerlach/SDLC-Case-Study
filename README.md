@@ -19,3 +19,11 @@ Systems at Fitchburg State University (2025).
 Evaluated the technical, economic, and operational feasibility of an
 IT modernization plan for a retail expansion scenario, including
 cost-benefit analysis and ROI projections.
+
+## Preview
+
+### Entity Relationship Diagram
+![ERD for the TopBike system](images/erd.png)
+
+### UI Prototype
+![UI prototype of the TopBike system](images/ui-prototype-home.png)
