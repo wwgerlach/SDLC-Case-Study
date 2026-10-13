@@ -5,7 +5,7 @@ completed by a team of four for my B.S. in Computer Information
 Systems at Fitchburg State University (2025).
 
 ## What's inside
-**TopBike New System Proposal**: full proposal covering feasibility
+**TopBike New System Proposal**: A full system proposal covering feasibility
 analysis, requirements, data models, UI prototypes, and a test plan
 
 ## My contributions
